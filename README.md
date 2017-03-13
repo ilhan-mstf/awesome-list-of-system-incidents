@@ -8,6 +8,6 @@ Nowadays, I hear more news related with system crashes that last hours (even day
 - Feb 9, 2017 [Instapaper DB crash](http://blog.instapaper.com/post/157027537441)
 - Feb 28, 2017 [S3 crash](https://aws.amazon.com/message/41926/)
 
-Contributions to the list is welcomed and encouraged. Embrace the system incidents ;)
+Contributions to the list is welcomed and encouraged. Embrace the system incidents ;). You can follow [this guide](https://github.com/mustilica/NewsListOfSystemIncidents/blob/master/CONTRIBUTING.md).
 
 Content is licensed under [Creative Commons Attribution 4.0 License](https://github.com/mustilica/NewsListOfSystemIncidents/blob/master/LICENSE).
