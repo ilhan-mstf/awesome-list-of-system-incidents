@@ -13,6 +13,7 @@ Instapaper hits file size limit of ext3 file system with its huge 2TB database. 
 - Feb 28, 2017 [S3 crash](https://aws.amazon.com/message/41926/)
 - Add table of contents.
 - Search historical incidents like water, electricity, etc.
+- Read this wiki: [List of major power outages](https://en.wikipedia.org/wiki/List_of_major_power_outages)
 
 Contributions to the list is welcomed and encouraged. Embrace the system incidents ;). You can follow [this guide](https://github.com/mustilica/NewsListOfSystemIncidents/blob/master/CONTRIBUTING.md).
 
