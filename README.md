@@ -14,7 +14,7 @@ Instapaper hits file size limit of ext3 file system with its huge 2TB database. 
 - Add table of contents.
 - Search historical incidents like water, electricity, etc.
 - Read this wiki: [List of major power outages](https://en.wikipedia.org/wiki/List_of_major_power_outages)
-- Look for the details of [Akbank outages](http://webrazzi.com/2017/03/27/akbank-servisleri-sabah-akbankin-online-bankacilik-hizmetleri-aksam-saatlerine-kadar-kesintiye-ugradi/)
+- Look for the details of [Akbank outages](http://www.reuters.com/article/turkey-akbank-idUSL5N1H42OO)
 
 Contributions to the list is welcomed and encouraged. Embrace the system incidents ;). You can follow [this guide](https://github.com/mustilica/NewsListOfSystemIncidents/blob/master/CONTRIBUTING.md).
 
