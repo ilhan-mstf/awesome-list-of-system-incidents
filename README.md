@@ -9,7 +9,8 @@ Nowadays, I hear more news related with system crashes that last hours (even day
 - [Incidents](#incidents)
   * [Feb 1, 2017 - GitLab.com Database Incident](#feb-1--2017---gitlabcom-database-incident)
   * [Feb 9, 2017 - Instapaper Database Incident](#feb-9--2017---instapaper-database-incident)
-- [TODOs](#todo-)
+- [Tools](#tools)
+- [TODOs](#todos)
 - [Contribution](#contribution)
 - [License](#license)
 
@@ -22,6 +23,9 @@ By mistake production database is deleted and after nearly 19 hours hard work br
 
 ## Feb 9, 2017 - Instapaper Database Incident
 Instapaper hits file size limit of ext3 file system with its huge 2TB database. System starts to reject saving new articles. Until moving database to another instance, users suffered to reach saved articles. [Read details](https://github.com/mustilica/NewsListOfSystemIncidents/blob/master/2017-02-09-Instapaper.md)
+
+# Tools
+- [https://outage.report/](https://outage.report/)
 
 # TODOs
 - Feb 28, 2017 [S3 crash](https://aws.amazon.com/message/41926/)
