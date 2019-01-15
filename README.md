@@ -34,6 +34,7 @@ Instapaper hits file size limit of ext3 file system with its huge 2TB database. 
 - Read this wiki: [List of major power outages](https://en.wikipedia.org/wiki/List_of_major_power_outages)
 - Look for the details of [Akbank outages](http://www.reuters.com/article/turkey-akbank-idUSL5N1H42OO)
 - 2012, [Netflix Christmas Eve Outage](https://medium.com/netflix-techblog/a-closer-look-at-the-christmas-eve-outage-d7b409a529ee)
+- [There is a collection of outages](https://www.infoworld.com/article/2622201/cloud-computing/the-10-worst-cloud-outages--and-what-we-can-learn-from-them-.html)
 
 # Contribution
 Contributions to the list is welcomed and encouraged. Embrace the system incidents ;). You can follow [this guide](https://github.com/mustilica/NewsListOfSystemIncidents/blob/master/CONTRIBUTING.md).
