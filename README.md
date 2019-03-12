@@ -36,6 +36,7 @@ Instapaper hits file size limit of ext3 file system with its huge 2TB database. 
 - 2012, [Netflix Christmas Eve Outage](https://medium.com/netflix-techblog/a-closer-look-at-the-christmas-eve-outage-d7b409a529ee)
 - [There is a collection of outages](https://www.infoworld.com/article/2622201/cloud-computing/the-10-worst-cloud-outages--and-what-we-can-learn-from-them-.html)
 - [Office365 outage](https://news.ycombinator.com/item?id=19030099)
+- [Github incident](https://www.githubstatus.com/incidents/tj58y1kx7tqy)
 
 # Contribution
 Contributions to the list is welcomed and encouraged. Embrace the system incidents ;). You can follow [this guide](https://github.com/mustilica/NewsListOfSystemIncidents/blob/master/CONTRIBUTING.md).
