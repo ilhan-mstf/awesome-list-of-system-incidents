@@ -38,6 +38,7 @@ Instapaper hits file size limit of ext3 file system with its huge 2TB database. 
 - [Office365 outage](https://news.ycombinator.com/item?id=19030099)
 - [Github incident](https://www.githubstatus.com/incidents/tj58y1kx7tqy)
 - [Facebook, Instagram and Messenger Down](https://news.ycombinator.com/item?id=21658184)
+- [Cloudflare outage](https://blog.cloudflare.com/details-of-the-cloudflare-outage-on-july-2-2019/)
 
 # Contribution
 Contributions to the list is welcomed and encouraged. Embrace the system incidents ;). You can follow [this guide](https://github.com/mustilica/NewsListOfSystemIncidents/blob/master/CONTRIBUTING.md).
